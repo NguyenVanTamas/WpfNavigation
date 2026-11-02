@@ -11,7 +11,7 @@
     >
         <StackPanel>
             <TextBlock
-                Text="Profil"
+                Text="Külön Window"
                 FontSize="32"
                 FontWeight="Bold"
                 Foreground="#1E293B"
